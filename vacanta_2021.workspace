@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="vacanta_2021" Database="" Version="10.0.0">
+  <Project Name="20210405_div1" Path="20210405_div1/20210405_div1.project" Active="No"/>
+  <Project Name="20210405_interschimbare" Path="20210405_interschimbare/20210405_interschimbare.project" Active="No"/>
+  <Project Name="20210405_par_impar" Path="20210405_par_impar/20210405_par_impar.project" Active="No"/>
+  <Project Name="20210405_an_bisect" Path="20210405_an_bisect/20210405_an_bisect.project" Active="No"/>
+  <Project Name="20210405_max" Path="20210405_max/20210405_max.project" Active="No"/>
+  <Project Name="20210406_ecuatie_gradul_2" Path="2021_04_06_ex1/2021_04_06_ex1.project" Active="No"/>
+  <Project Name="20210406_sort_3_nr" Path="20210406_sort_3_nr/20210406_sort_3_nr.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="20210405_div1" ConfigName="Debug"/>
+      <Project Name="20210405_interschimbare" ConfigName="Debug"/>
+      <Project Name="20210405_par_impar" ConfigName="Debug"/>
+      <Project Name="20210405_an_bisect" ConfigName="Debug"/>
+      <Project Name="20210405_max" ConfigName="Debug"/>
+      <Project Name="20210406_ecuatie_gradul_2" ConfigName="Debug"/>
+      <Project Name="20210406_sort_3_nr" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="20210405_div1" ConfigName="Release"/>
+      <Project Name="20210405_interschimbare" ConfigName="Release"/>
+      <Project Name="20210405_par_impar" ConfigName="Release"/>
+      <Project Name="20210405_an_bisect" ConfigName="Release"/>
+      <Project Name="20210405_max" ConfigName="Release"/>
+      <Project Name="20210406_ecuatie_gradul_2" ConfigName="Release"/>
+      <Project Name="20210406_sort_3_nr" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
