@@ -6,7 +6,53 @@
   <Project Name="20210405_an_bisect" Path="20210405_an_bisect/20210405_an_bisect.project" Active="No"/>
   <Project Name="20210405_max" Path="20210405_max/20210405_max.project" Active="No"/>
   <Project Name="20210406_ecuatie_gradul_2" Path="2021_04_06_ex1/2021_04_06_ex1.project" Active="No"/>
-  <Project Name="20210406_sort_3_nr" Path="20210406_sort_3_nr/20210406_sort_3_nr.project" Active="Yes"/>
+  <Project Name="20210406_sort_3_nr" Path="20210406_sort_3_nr/20210406_sort_3_nr.project" Active="No"/>
+  <Project Name="20210407_Sum_Nr_Consecutive" Path="20210407_Sum_Nr_Consecutive/20210407_Sum_Nr_Consecutive.project" Active="No"/>
+  <Project Name="20210407_cifra_control" Path="20210407_cifra_control/20210407_cifra_control.project" Active="No"/>
+  <Project Name="pbinfo_832" Path="pbinfo_832/pbinfo_832.project" Active="No"/>
+  <Project Name="pbinfo_469" Path="pbinfo_469/pbinfo_469.project" Active="No"/>
+  <Project Name="pbinfo_559" Path="pbinfo_559/pbinfo_559.project" Active="No"/>
+  <Project Name="pbinfo_451" Path="pbinfo_451/pbinfo_451.project" Active="No"/>
+  <Project Name="20210407_cmmdc" Path="20210407_cmmdc/20210407_cmmdc.project" Active="No"/>
+  <Project Name="pbinfo_1358" Path="pbinfo_1358/pbinfo_1358.project" Active="No"/>
+  <Project Name="pbinfo_1309" Path="pbinfo_1309/pbinfo_1309.project" Active="No"/>
+  <Project Name="20210412_sum_cifre" Path="20210412_sum_cifre/20210412_sum_cifre.project" Active="No"/>
+  <Project Name="20210412_prima_cifra" Path="20210412_prima_cifra/20210412_prima_cifra.project" Active="No"/>
+  <Project Name="20210412_invers" Path="20210412_invers/20210412_invers.project" Active="No"/>
+  <Project Name="20210412_palindrom" Path="20210412_palindrom/20210412_palindrom.project" Active="No"/>
+  <Project Name="20210412_cifra_para_up" Path="20210412_cifra_para_up/20210412_cifra_para_up.project" Active="No"/>
+  <Project Name="20210412_cifra_para_up_2" Path="20210412_cifra_para_up_2/20210412_cifra_para_up_2.project" Active="No"/>
+  <Project Name="20210412_cifre_proprietate" Path="20210412_cifre_proprietate/20210412_cifre_proprietate.project" Active="No"/>
+  <Project Name="20210414_cifre_pare_numar" Path="20210414_cifre_pare_numar/20210414_cifre_pare_numar.project" Active="No"/>
+  <Project Name="20210414_divizor_max" Path="20210414_divizor_max/20210414_divizor_max.project" Active="No"/>
+  <Project Name="CALCULATOR_TEME" Path="CALCULATOR_TEME/CALCULATOR_TEME.project" Active="No"/>
+  <Project Name="20210418_cifra_max" Path="20210418_cifra_max/20210418_cifra_max.project" Active="No"/>
+  <Project Name="20210418_divizori" Path="20210418_divizori/20210418_divizori.project" Active="No"/>
+  <Project Name="20210418_nr_prim" Path="20210418_nr_prim/20210418_nr_prim.project" Active="No"/>
+  <Project Name="2010418_nrPrime" Path="2010418_nrPrime/2010418_nrPrime.project" Active="No"/>
+  <Project Name="20210418_n_k" Path="20210418_n_k/20210418_n_k.project" Active="No"/>
+  <Project Name="20210418_note_elev" Path="20210418_note_elev/20210418_note_elev.project" Active="No"/>
+  <Project Name="05_06_2021_ex1" Path="05_06_2021_ex1/05_06_2021_ex1.project" Active="No"/>
+  <Project Name="20210619_sumanr_" Path="20210619_sumanr_/20210619_sumanr_.project" Active="No"/>
+  <Project Name="20210619_sumanrimpare" Path="20210619_sumanrimpare/20210619_sumanrimpare.project" Active="No"/>
+  <Project Name="20210619_lk" Path="20210619_lk/20210619_lk.project" Active="No"/>
+  <Project Name="20210619_pg49_2" Path="20210619_pg49_2/20210619_pg49_2.project" Active="No"/>
+  <Project Name="20210619_pg49_3" Path="20210619_pg49_3/20210619_pg49_3.project" Active="No"/>
+  <Project Name="pbinfo1261" Path="pbinfo1261/pbinfo1261.project" Active="No"/>
+  <Project Name="pbinfo327" Path="pbinfo327/pbinfo327.project" Active="No"/>
+  <Project Name="pbinfo328" Path="pbinfo328/pbinfo328.project" Active="No"/>
+  <Project Name="pbinfo330" Path="pbinfo330/pbinfo330.project" Active="No"/>
+  <Project Name="pbinfo331" Path="pbinfo331/pbinfo331.project" Active="No"/>
+  <Project Name="pbinfo1362" Path="pbinfo1362/pbinfo1362.project" Active="No"/>
+  <Project Name="pbinfo1565" Path="pbinfo1565/pbinfo1565.project" Active="No"/>
+  <Project Name="pbinfo3231" Path="pbinfo3231/pbinfo3231.project" Active="No"/>
+  <Project Name="pbinfo_3232" Path="pbinfo_3232/pbinfo_3232.project" Active="No"/>
+  <Project Name="pbinf_3233" Path="pbinf_3233/pbinf_3233.project" Active="No"/>
+  <Project Name="pbinfo_1681" Path="pbinfo_1681/pbinfo_1681.project" Active="No"/>
+  <Project Name="pbinfo_2747" Path="pbinfo_2747/pbinfo_2747.project" Active="No"/>
+  <Project Name="pbinfo348" Path="pbinfo348/pbinfo348.project" Active="No"/>
+  <Project Name="pbinfo2572" Path="pbinfo2572/pbinfo2572.project" Active="No"/>
+  <Project Name="pbinfo_2695" Path="pbinfo_2695/pbinfo_2695.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -17,6 +63,52 @@
       <Project Name="20210405_max" ConfigName="Debug"/>
       <Project Name="20210406_ecuatie_gradul_2" ConfigName="Debug"/>
       <Project Name="20210406_sort_3_nr" ConfigName="Debug"/>
+      <Project Name="20210407_Sum_Nr_Consecutive" ConfigName="Debug"/>
+      <Project Name="20210407_cifra_control" ConfigName="Debug"/>
+      <Project Name="pbinfo_832" ConfigName="Debug"/>
+      <Project Name="pbinfo_469" ConfigName="Debug"/>
+      <Project Name="pbinfo_559" ConfigName="Debug"/>
+      <Project Name="pbinfo_451" ConfigName="Debug"/>
+      <Project Name="20210407_cmmdc" ConfigName="Debug"/>
+      <Project Name="pbinfo_1358" ConfigName="Debug"/>
+      <Project Name="pbinfo_1309" ConfigName="Debug"/>
+      <Project Name="20210412_sum_cifre" ConfigName="Debug"/>
+      <Project Name="20210412_prima_cifra" ConfigName="Debug"/>
+      <Project Name="20210412_invers" ConfigName="Debug"/>
+      <Project Name="20210412_palindrom" ConfigName="Debug"/>
+      <Project Name="20210412_cifra_para_up" ConfigName="Debug"/>
+      <Project Name="20210412_cifra_para_up_2" ConfigName="Debug"/>
+      <Project Name="20210412_cifre_proprietate" ConfigName="Debug"/>
+      <Project Name="20210414_cifre_pare_numar" ConfigName="Debug"/>
+      <Project Name="20210414_divizor_max" ConfigName="Debug"/>
+      <Project Name="CALCULATOR_TEME" ConfigName="Debug"/>
+      <Project Name="20210418_cifra_max" ConfigName="Debug"/>
+      <Project Name="20210418_divizori" ConfigName="Debug"/>
+      <Project Name="20210418_nr_prim" ConfigName="Debug"/>
+      <Project Name="2010418_nrPrime" ConfigName="Debug"/>
+      <Project Name="20210418_n_k" ConfigName="Debug"/>
+      <Project Name="20210418_note_elev" ConfigName="Debug"/>
+      <Project Name="05_06_2021_ex1" ConfigName="Debug"/>
+      <Project Name="20210619_sumanr_" ConfigName="Debug"/>
+      <Project Name="20210619_sumanrimpare" ConfigName="Debug"/>
+      <Project Name="20210619_lk" ConfigName="Debug"/>
+      <Project Name="20210619_pg49_2" ConfigName="Debug"/>
+      <Project Name="20210619_pg49_3" ConfigName="Debug"/>
+      <Project Name="pbinfo1261" ConfigName="Debug"/>
+      <Project Name="pbinfo327" ConfigName="Debug"/>
+      <Project Name="pbinfo328" ConfigName="Debug"/>
+      <Project Name="pbinfo330" ConfigName="Debug"/>
+      <Project Name="pbinfo331" ConfigName="Debug"/>
+      <Project Name="pbinfo1362" ConfigName="Debug"/>
+      <Project Name="pbinfo1565" ConfigName="Debug"/>
+      <Project Name="pbinfo3231" ConfigName="Debug"/>
+      <Project Name="pbinfo_3232" ConfigName="Debug"/>
+      <Project Name="pbinf_3233" ConfigName="Debug"/>
+      <Project Name="pbinfo_1681" ConfigName="Debug"/>
+      <Project Name="pbinfo_2747" ConfigName="Debug"/>
+      <Project Name="pbinfo348" ConfigName="Debug"/>
+      <Project Name="pbinfo2572" ConfigName="Debug"/>
+      <Project Name="pbinfo_2695" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -27,6 +119,52 @@
       <Project Name="20210405_max" ConfigName="Release"/>
       <Project Name="20210406_ecuatie_gradul_2" ConfigName="Release"/>
       <Project Name="20210406_sort_3_nr" ConfigName="Release"/>
+      <Project Name="20210407_Sum_Nr_Consecutive" ConfigName="Release"/>
+      <Project Name="20210407_cifra_control" ConfigName="Release"/>
+      <Project Name="pbinfo_832" ConfigName="Release"/>
+      <Project Name="pbinfo_469" ConfigName="Release"/>
+      <Project Name="pbinfo_559" ConfigName="Release"/>
+      <Project Name="pbinfo_451" ConfigName="Release"/>
+      <Project Name="20210407_cmmdc" ConfigName="Release"/>
+      <Project Name="pbinfo_1358" ConfigName="Release"/>
+      <Project Name="pbinfo_1309" ConfigName="Release"/>
+      <Project Name="20210412_sum_cifre" ConfigName="Release"/>
+      <Project Name="20210412_prima_cifra" ConfigName="Release"/>
+      <Project Name="20210412_invers" ConfigName="Release"/>
+      <Project Name="20210412_palindrom" ConfigName="Release"/>
+      <Project Name="20210412_cifra_para_up" ConfigName="Release"/>
+      <Project Name="20210412_cifra_para_up_2" ConfigName="Release"/>
+      <Project Name="20210412_cifre_proprietate" ConfigName="Release"/>
+      <Project Name="20210414_cifre_pare_numar" ConfigName="Release"/>
+      <Project Name="20210414_divizor_max" ConfigName="Release"/>
+      <Project Name="CALCULATOR_TEME" ConfigName="Release"/>
+      <Project Name="20210418_cifra_max" ConfigName="Release"/>
+      <Project Name="20210418_divizori" ConfigName="Release"/>
+      <Project Name="20210418_nr_prim" ConfigName="Release"/>
+      <Project Name="2010418_nrPrime" ConfigName="Release"/>
+      <Project Name="20210418_n_k" ConfigName="Release"/>
+      <Project Name="20210418_note_elev" ConfigName="Release"/>
+      <Project Name="05_06_2021_ex1" ConfigName="Release"/>
+      <Project Name="20210619_sumanr_" ConfigName="Release"/>
+      <Project Name="20210619_sumanrimpare" ConfigName="Release"/>
+      <Project Name="20210619_lk" ConfigName="Release"/>
+      <Project Name="20210619_pg49_2" ConfigName="Release"/>
+      <Project Name="20210619_pg49_3" ConfigName="Release"/>
+      <Project Name="pbinfo1261" ConfigName="Release"/>
+      <Project Name="pbinfo327" ConfigName="Release"/>
+      <Project Name="pbinfo328" ConfigName="Release"/>
+      <Project Name="pbinfo330" ConfigName="Release"/>
+      <Project Name="pbinfo331" ConfigName="Release"/>
+      <Project Name="pbinfo1362" ConfigName="Release"/>
+      <Project Name="pbinfo1565" ConfigName="Release"/>
+      <Project Name="pbinfo3231" ConfigName="Release"/>
+      <Project Name="pbinfo_3232" ConfigName="Release"/>
+      <Project Name="pbinf_3233" ConfigName="Release"/>
+      <Project Name="pbinfo_1681" ConfigName="Release"/>
+      <Project Name="pbinfo_2747" ConfigName="Release"/>
+      <Project Name="pbinfo348" ConfigName="Release"/>
+      <Project Name="pbinfo2572" ConfigName="Release"/>
+      <Project Name="pbinfo_2695" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 20210406_sort_3_nr - Debug ]----------"
-	@cd "20210406_sort_3_nr" && "$(MAKE)" -f  "20210406_sort_3_nr.mk"
+	@echo "----------Building project:[ pbinfo_2695 - Debug ]----------"
+	@cd "pbinfo_2695" && "$(MAKE)" -f  "pbinfo_2695.mk"
 clean:
-	@echo "----------Cleaning project:[ 20210406_sort_3_nr - Debug ]----------"
-	@cd "20210406_sort_3_nr" && "$(MAKE)" -f  "20210406_sort_3_nr.mk" clean
+	@echo "----------Cleaning project:[ pbinfo_2695 - Debug ]----------"
+	@cd "pbinfo_2695" && "$(MAKE)" -f  "pbinfo_2695.mk" clean
