@@ -1,20 +1,13 @@
 #include <iostream>
 using namespace std;
-int n,x,i;
+double long p;
+int n;
 int main()
 {
-    //Luka, type your code below!
-	/*x = 1;
 	cin >> n;
-	for(int i = 0; i < n; i++)
-		x = x * 10;
-	cout << x;*/
-	x = 1;
-	cin >> n;
-	while(i < n){
-		x = x * 10;
-		i++;
+	cout << 1;
+	for(int i = 1; i <= n;i++){
+		cout << 0;
 	}
-	cout <<x;
 	return 0;
 }

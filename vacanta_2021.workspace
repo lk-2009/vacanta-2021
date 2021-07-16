@@ -52,7 +52,16 @@
   <Project Name="pbinfo_2747" Path="pbinfo_2747/pbinfo_2747.project" Active="No"/>
   <Project Name="pbinfo348" Path="pbinfo348/pbinfo348.project" Active="No"/>
   <Project Name="pbinfo2572" Path="pbinfo2572/pbinfo2572.project" Active="No"/>
-  <Project Name="pbinfo_2695" Path="pbinfo_2695/pbinfo_2695.project" Active="Yes"/>
+  <Project Name="pbinfo_2695" Path="pbinfo_2695/pbinfo_2695.project" Active="No"/>
+  <Project Name="pbinfo351" Path="pbinfo351/pbinfo351.project" Active="No"/>
+  <Project Name="pbinfo1684" Path="pbinfo1684/pbinfo1684.project" Active="No"/>
+  <Project Name="pg_31_1" Path="pg_31_1/pg_31_1.project" Active="No"/>
+  <Project Name="pg_31_2" Path="pg_31_2/pg_31_2.project" Active="No"/>
+  <Project Name="pg_31_3" Path="pg_31_3/pg_31_3.project" Active="No"/>
+  <Project Name="pg_32_4" Path="pb_32_4/pb_32_4.project" Active="No"/>
+  <Project Name="pg_32_5" Path="pg_32_5/pg_32_5.project" Active="No"/>
+  <Project Name="pg_33_6" Path="pg_33_6/pg_33_6.project" Active="No"/>
+  <Project Name="pg_33_7" Path="pg_33_7/pg_33_7.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -109,6 +118,15 @@
       <Project Name="pbinfo348" ConfigName="Debug"/>
       <Project Name="pbinfo2572" ConfigName="Debug"/>
       <Project Name="pbinfo_2695" ConfigName="Debug"/>
+      <Project Name="pbinfo351" ConfigName="Debug"/>
+      <Project Name="pbinfo1684" ConfigName="Debug"/>
+      <Project Name="pg_31_1" ConfigName="Debug"/>
+      <Project Name="pg_31_2" ConfigName="Debug"/>
+      <Project Name="pg_31_3" ConfigName="Debug"/>
+      <Project Name="pg_32_4" ConfigName="Debug"/>
+      <Project Name="pg_32_5" ConfigName="Debug"/>
+      <Project Name="pg_33_6" ConfigName="Debug"/>
+      <Project Name="pg_33_7" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -165,6 +183,15 @@
       <Project Name="pbinfo348" ConfigName="Release"/>
       <Project Name="pbinfo2572" ConfigName="Release"/>
       <Project Name="pbinfo_2695" ConfigName="Release"/>
+      <Project Name="pbinfo351" ConfigName="Release"/>
+      <Project Name="pbinfo1684" ConfigName="Release"/>
+      <Project Name="pg_31_1" ConfigName="Release"/>
+      <Project Name="pg_31_2" ConfigName="Release"/>
+      <Project Name="pg_31_3" ConfigName="Release"/>
+      <Project Name="pg_32_4" ConfigName="Release"/>
+      <Project Name="pg_32_5" ConfigName="Release"/>
+      <Project Name="pg_33_6" ConfigName="Release"/>
+      <Project Name="pg_33_7" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
