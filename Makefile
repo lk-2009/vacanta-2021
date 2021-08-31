@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ pg_33_7 - Debug ]----------"
-	@cd "pg_33_7" && "$(MAKE)" -f  "pg_33_7.mk"
+	@echo "----------Building project:[ 20210831_vec_min - Debug ]----------"
+	@cd "20210831_vec_min" && "$(MAKE)" -f  "20210831_vec_min.mk"
 clean:
-	@echo "----------Cleaning project:[ pg_33_7 - Debug ]----------"
-	@cd "pg_33_7" && "$(MAKE)" -f  "pg_33_7.mk" clean
+	@echo "----------Cleaning project:[ 20210831_vec_min - Debug ]----------"
+	@cd "20210831_vec_min" && "$(MAKE)" -f  "20210831_vec_min.mk" clean

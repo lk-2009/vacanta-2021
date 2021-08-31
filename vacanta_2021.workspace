@@ -61,7 +61,19 @@
   <Project Name="pg_32_4" Path="pb_32_4/pb_32_4.project" Active="No"/>
   <Project Name="pg_32_5" Path="pg_32_5/pg_32_5.project" Active="No"/>
   <Project Name="pg_33_6" Path="pg_33_6/pg_33_6.project" Active="No"/>
-  <Project Name="pg_33_7" Path="pg_33_7/pg_33_7.project" Active="Yes"/>
+  <Project Name="pg_33_7" Path="pg_33_7/pg_33_7.project" Active="No"/>
+  <Project Name="20210724_pozitii" Path="20210724_pozitii/20210724_pozitii.project" Active="No"/>
+  <Project Name="pbinfo_871" Path="pbinfo_871/pbinfo_871.project" Active="No"/>
+  <Project Name="pbinfo_3251" Path="pbinfo_3251/pbinfo_3251.project" Active="No"/>
+  <Project Name="20210820_sir_crescator" Path="20210820_sir_crescator/20210820_sir_crescator.project" Active="No"/>
+  <Project Name="pg93_ex1" Path="pg93_ex1/pg93_ex1.project" Active="No"/>
+  <Project Name="pg93_ex2" Path="pg93_ex2/pg93_ex2.project" Active="No"/>
+  <Project Name="pg94_ex3" Path="pg94_ex3/pg94_ex3.project" Active="No"/>
+  <Project Name="pg94_ex4" Path="pg94_ex4/pg94_ex4.project" Active="No"/>
+  <Project Name="pg96_ex2" Path="pg96_ex2/pg96_ex2.project" Active="No"/>
+  <Project Name="20210831_vec_suma" Path="20210831_vec_suma/20210831_vec_suma.project" Active="No"/>
+  <Project Name="20210831_vec_max" Path="20210831_vec_max/20210831_vec_max.project" Active="No"/>
+  <Project Name="20210831_vec_min" Path="20210831_vec_min/20210831_vec_min.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -127,6 +139,18 @@
       <Project Name="pg_32_5" ConfigName="Debug"/>
       <Project Name="pg_33_6" ConfigName="Debug"/>
       <Project Name="pg_33_7" ConfigName="Debug"/>
+      <Project Name="20210724_pozitii" ConfigName="Debug"/>
+      <Project Name="pbinfo_871" ConfigName="Debug"/>
+      <Project Name="pbinfo_3251" ConfigName="Debug"/>
+      <Project Name="20210820_sir_crescator" ConfigName="Debug"/>
+      <Project Name="pg93_ex1" ConfigName="Debug"/>
+      <Project Name="pg93_ex2" ConfigName="Debug"/>
+      <Project Name="pg94_ex3" ConfigName="Debug"/>
+      <Project Name="pg94_ex4" ConfigName="Debug"/>
+      <Project Name="pg96_ex2" ConfigName="Debug"/>
+      <Project Name="20210831_vec_suma" ConfigName="Debug"/>
+      <Project Name="20210831_vec_max" ConfigName="Debug"/>
+      <Project Name="20210831_vec_min" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -192,6 +216,18 @@
       <Project Name="pg_32_5" ConfigName="Release"/>
       <Project Name="pg_33_6" ConfigName="Release"/>
       <Project Name="pg_33_7" ConfigName="Release"/>
+      <Project Name="20210724_pozitii" ConfigName="Release"/>
+      <Project Name="pbinfo_871" ConfigName="Release"/>
+      <Project Name="pbinfo_3251" ConfigName="Release"/>
+      <Project Name="20210820_sir_crescator" ConfigName="Release"/>
+      <Project Name="pg93_ex1" ConfigName="Release"/>
+      <Project Name="pg93_ex2" ConfigName="Release"/>
+      <Project Name="pg94_ex3" ConfigName="Release"/>
+      <Project Name="pg94_ex4" ConfigName="Release"/>
+      <Project Name="pg96_ex2" ConfigName="Release"/>
+      <Project Name="20210831_vec_suma" ConfigName="Release"/>
+      <Project Name="20210831_vec_max" ConfigName="Release"/>
+      <Project Name="20210831_vec_min" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

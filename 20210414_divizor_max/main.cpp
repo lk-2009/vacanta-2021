@@ -5,7 +5,7 @@ int main()
 {
     //Luka, type your code below!
 	cin >> a;
-	d = n	-1;
+	d = -1;
 	while(a % d !=0){
 		d--;
 	}
