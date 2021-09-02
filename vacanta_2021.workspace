@@ -73,7 +73,11 @@
   <Project Name="pg96_ex2" Path="pg96_ex2/pg96_ex2.project" Active="No"/>
   <Project Name="20210831_vec_suma" Path="20210831_vec_suma/20210831_vec_suma.project" Active="No"/>
   <Project Name="20210831_vec_max" Path="20210831_vec_max/20210831_vec_max.project" Active="No"/>
-  <Project Name="20210831_vec_min" Path="20210831_vec_min/20210831_vec_min.project" Active="Yes"/>
+  <Project Name="20210831_vec_min" Path="20210831_vec_min/20210831_vec_min.project" Active="No"/>
+  <Project Name="20210901_min_si_ordine" Path="20210901_min_si_ordine/20210901_min_si_ordine.project" Active="No"/>
+  <Project Name="20210902_vec_reverse" Path="20210902_vec_reverse/20210902_vec_reverse.project" Active="No"/>
+  <Project Name="20210902_vec_switch" Path="20210902_vec_switch/20210902_vec_switch.project" Active="No"/>
+  <Project Name="20210902_vec_permutare" Path="20210902_vec_mutare/20210902_vec_mutare.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -151,6 +155,10 @@
       <Project Name="20210831_vec_suma" ConfigName="Debug"/>
       <Project Name="20210831_vec_max" ConfigName="Debug"/>
       <Project Name="20210831_vec_min" ConfigName="Debug"/>
+      <Project Name="20210901_min_si_ordine" ConfigName="Debug"/>
+      <Project Name="20210902_vec_reverse" ConfigName="Debug"/>
+      <Project Name="20210902_vec_switch" ConfigName="Debug"/>
+      <Project Name="20210902_vec_permutare" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -228,6 +236,10 @@
       <Project Name="20210831_vec_suma" ConfigName="Release"/>
       <Project Name="20210831_vec_max" ConfigName="Release"/>
       <Project Name="20210831_vec_min" ConfigName="Release"/>
+      <Project Name="20210901_min_si_ordine" ConfigName="Release"/>
+      <Project Name="20210902_vec_reverse" ConfigName="Release"/>
+      <Project Name="20210902_vec_switch" ConfigName="Release"/>
+      <Project Name="20210902_vec_permutare" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

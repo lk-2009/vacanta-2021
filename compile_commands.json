@@ -1,4 +1,12 @@
 [{
+  "file": "/Users/Luca/Documents/programare/vacanta_2021/20210902_vec_reverse/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/vacanta_2021/20210902_vec_reverse",
+  "command": "clang  -c /Users/Luca/Documents/programare/vacanta_2021/20210902_vec_reverse/main.cpp -o /Users/Luca/Documents/programare/vacanta_2021/20210902_vec_reverse/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/vacanta_2021/20210901_min_si_ordine/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/vacanta_2021/20210901_min_si_ordine",
+  "command": "clang  -c /Users/Luca/Documents/programare/vacanta_2021/20210901_min_si_ordine/main.cpp -o /Users/Luca/Documents/programare/vacanta_2021/20210901_min_si_ordine/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
   "file": "/Users/Luca/Documents/programare/vacanta_2021/20210831_vec_min/main.cpp",
   "directory": "/Users/Luca/Documents/programare/vacanta_2021/20210831_vec_min",
   "command": "clang  -c /Users/Luca/Documents/programare/vacanta_2021/20210831_vec_min/main.cpp -o /Users/Luca/Documents/programare/vacanta_2021/20210831_vec_min/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
@@ -95,6 +103,10 @@
   "directory": "/Users/Luca/Documents/programare/vacanta_2021/20210619_pg49_3",
   "command": "clang  -c /Users/Luca/Documents/programare/vacanta_2021/20210619_pg49_3/main.cpp -o /Users/Luca/Documents/programare/vacanta_2021/20210619_pg49_3/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }, {
+  "file": "/Users/Luca/Documents/programare/vacanta_2021/20210902_vec_switch/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/vacanta_2021/20210902_vec_switch",
+  "command": "clang  -c /Users/Luca/Documents/programare/vacanta_2021/20210902_vec_switch/main.cpp -o /Users/Luca/Documents/programare/vacanta_2021/20210902_vec_switch/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
   "file": "/Users/Luca/Documents/programare/vacanta_2021/20210405_par_impar/main.cpp",
   "directory": "/Users/Luca/Documents/programare/vacanta_2021/20210405_par_impar",
   "command": "clang  -c /Users/Luca/Documents/programare/vacanta_2021/20210405_par_impar/main.cpp -o /Users/Luca/Documents/programare/vacanta_2021/20210405_par_impar/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
@@ -170,6 +182,10 @@
   "file": "/Users/Luca/Documents/programare/vacanta_2021/pbinfo_832/main.cpp",
   "directory": "/Users/Luca/Documents/programare/vacanta_2021/pbinfo_832",
   "command": "clang  -c /Users/Luca/Documents/programare/vacanta_2021/pbinfo_832/main.cpp -o /Users/Luca/Documents/programare/vacanta_2021/pbinfo_832/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/Luca/Documents/programare/vacanta_2021/20210902_vec_mutare/main.cpp",
+  "directory": "/Users/Luca/Documents/programare/vacanta_2021/20210902_vec_mutare",
+  "command": "clang  -c /Users/Luca/Documents/programare/vacanta_2021/20210902_vec_mutare/main.cpp -o /Users/Luca/Documents/programare/vacanta_2021/20210902_vec_mutare/main.cpp.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }, {
   "file": "/Users/Luca/Documents/programare/vacanta_2021/20210412_sum_cifre/main.cpp",
   "directory": "/Users/Luca/Documents/programare/vacanta_2021/20210412_sum_cifre",
