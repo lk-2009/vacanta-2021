@@ -77,7 +77,14 @@
   <Project Name="20210901_min_si_ordine" Path="20210901_min_si_ordine/20210901_min_si_ordine.project" Active="No"/>
   <Project Name="20210902_vec_reverse" Path="20210902_vec_reverse/20210902_vec_reverse.project" Active="No"/>
   <Project Name="20210902_vec_switch" Path="20210902_vec_switch/20210902_vec_switch.project" Active="No"/>
-  <Project Name="20210902_vec_permutare" Path="20210902_vec_mutare/20210902_vec_mutare.project" Active="Yes"/>
+  <Project Name="20210902_vec_permutare" Path="20210902_vec_mutare/20210902_vec_mutare.project" Active="No"/>
+  <Project Name="20210903_vec_inserare" Path="2010903_vec_inserare/2010903_vec_inserare.project" Active="No"/>
+  <Project Name="20210903_vec_remove_k_from_x" Path="20210903_vec_remove_k_from_x/20210903_vec_remove_k_from_x.project" Active="No"/>
+  <Project Name="20210903_vec_search" Path="20210903_vec_search/20210903_vec_search.project" Active="No"/>
+  <Project Name="pg_97_ex1" Path="pg_97_ex1/pg_97_ex1.project" Active="No"/>
+  <Project Name="pg97_ex2" Path="pg97_ex2/pg97_ex2.project" Active="No"/>
+  <Project Name="pg98_ex3" Path="pg98_ex3/pg98_ex3.project" Active="No"/>
+  <Project Name="pg106_ex5" Path="pg98_ex4/pg98_ex4.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -159,6 +166,13 @@
       <Project Name="20210902_vec_reverse" ConfigName="Debug"/>
       <Project Name="20210902_vec_switch" ConfigName="Debug"/>
       <Project Name="20210902_vec_permutare" ConfigName="Debug"/>
+      <Project Name="20210903_vec_inserare" ConfigName="Debug"/>
+      <Project Name="20210903_vec_remove_k_from_x" ConfigName="Debug"/>
+      <Project Name="20210903_vec_search" ConfigName="Debug"/>
+      <Project Name="pg_97_ex1" ConfigName="Debug"/>
+      <Project Name="pg97_ex2" ConfigName="Debug"/>
+      <Project Name="pg98_ex3" ConfigName="Debug"/>
+      <Project Name="pg106_ex5" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -240,6 +254,13 @@
       <Project Name="20210902_vec_reverse" ConfigName="Release"/>
       <Project Name="20210902_vec_switch" ConfigName="Release"/>
       <Project Name="20210902_vec_permutare" ConfigName="Release"/>
+      <Project Name="20210903_vec_inserare" ConfigName="Release"/>
+      <Project Name="20210903_vec_remove_k_from_x" ConfigName="Release"/>
+      <Project Name="20210903_vec_search" ConfigName="Release"/>
+      <Project Name="pg_97_ex1" ConfigName="Release"/>
+      <Project Name="pg97_ex2" ConfigName="Release"/>
+      <Project Name="pg98_ex3" ConfigName="Release"/>
+      <Project Name="pg106_ex5" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
