@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="vacanta_2021" Database="" Version="10.0.0">
+<CodeLite_Workspace Name="vacanta_2021" Database="" Version="10.0.0" SWTLW="Yes">
+  <WorkspaceParserMacros/>
+  <WorkspaceParserPaths/>
   <Project Name="20210405_div1" Path="20210405_div1/20210405_div1.project" Active="No"/>
   <Project Name="20210405_interschimbare" Path="20210405_interschimbare/20210405_interschimbare.project" Active="No"/>
   <Project Name="20210405_par_impar" Path="20210405_par_impar/20210405_par_impar.project" Active="No"/>
@@ -84,7 +86,13 @@
   <Project Name="pg_97_ex1" Path="pg_97_ex1/pg_97_ex1.project" Active="No"/>
   <Project Name="pg97_ex2" Path="pg97_ex2/pg97_ex2.project" Active="No"/>
   <Project Name="pg98_ex3" Path="pg98_ex3/pg98_ex3.project" Active="No"/>
-  <Project Name="pg106_ex5" Path="pg98_ex4/pg98_ex4.project" Active="Yes"/>
+  <Project Name="pg106_ex5" Path="pg98_ex4/pg98_ex4.project" Active="No"/>
+  <Project Name="pg_98_ex4" Path="pg_98_ex4/pg_98_ex4.project" Active="No"/>
+  <Project Name="pg99_ex5" Path="pg99_ex5/pg99_ex5.project" Active="No"/>
+  <Project Name="pg99_ex6" Path="pg99_ex6/pg99_ex6.project" Active="No"/>
+  <Project Name="pg100_ex7" Path="pg100_ex7/pg100_ex7.project" Active="No"/>
+  <Project Name="pg100_ex8" Path="pg100_ex8/pg100_ex8.project" Active="No"/>
+  <Project Name="pg101_ex9" Path="pg101_ex9/pg101_ex9.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -173,6 +181,12 @@
       <Project Name="pg97_ex2" ConfigName="Debug"/>
       <Project Name="pg98_ex3" ConfigName="Debug"/>
       <Project Name="pg106_ex5" ConfigName="Debug"/>
+      <Project Name="pg_98_ex4" ConfigName="Debug"/>
+      <Project Name="pg99_ex5" ConfigName="Debug"/>
+      <Project Name="pg99_ex6" ConfigName="Debug"/>
+      <Project Name="pg100_ex7" ConfigName="Debug"/>
+      <Project Name="pg100_ex8" ConfigName="Debug"/>
+      <Project Name="pg101_ex9" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -261,6 +275,12 @@
       <Project Name="pg97_ex2" ConfigName="Release"/>
       <Project Name="pg98_ex3" ConfigName="Release"/>
       <Project Name="pg106_ex5" ConfigName="Release"/>
+      <Project Name="pg_98_ex4" ConfigName="Release"/>
+      <Project Name="pg99_ex5" ConfigName="Release"/>
+      <Project Name="pg99_ex6" ConfigName="Release"/>
+      <Project Name="pg100_ex7" ConfigName="Release"/>
+      <Project Name="pg100_ex8" ConfigName="Release"/>
+      <Project Name="pg101_ex9" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
